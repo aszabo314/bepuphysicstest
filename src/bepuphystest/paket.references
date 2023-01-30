@@ -1,0 +1,13 @@
+FSharp.Core
+
+FSharp.Data.Adaptive
+Aardvark.Base
+Aardvark.Base.Incremental
+Aardvark.Base.FSharp
+
+Aardvark.Rendering
+Aardvark.Application.Slim
+Aardvark.Application.Slim.GL
+Aardvark.SceneGraph
+
+BepuPhysics
